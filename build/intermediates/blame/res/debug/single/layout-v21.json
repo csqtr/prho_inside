@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\truec\\AndroidStudioProjects\\InsideUrban\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\truec\\.android\\build-cache\\2bec23efb6c3d5c66bbff94a5ac4d1cfcf75cc1c\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\truec\\AndroidStudioProjects\\InsideUrban\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\truec\\.android\\build-cache\\2bec23efb6c3d5c66bbff94a5ac4d1cfcf75cc1c\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\truec\\AndroidStudioProjects\\InsideUrban\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\truec\\.android\\build-cache\\2bec23efb6c3d5c66bbff94a5ac4d1cfcf75cc1c\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\truec\\AndroidStudioProjects\\InsideUrban\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\truec\\.android\\build-cache\\2bec23efb6c3d5c66bbff94a5ac4d1cfcf75cc1c\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\truec\\AndroidStudioProjects\\InsideUrban\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\truec\\.android\\build-cache\\2bec23efb6c3d5c66bbff94a5ac4d1cfcf75cc1c\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\truec\\AndroidStudioProjects\\InsideUrban\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\truec\\.android\\build-cache\\2bec23efb6c3d5c66bbff94a5ac4d1cfcf75cc1c\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\truec\\AndroidStudioProjects\\InsideUrban\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\truec\\.android\\build-cache\\2bec23efb6c3d5c66bbff94a5ac4d1cfcf75cc1c\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\truec\\AndroidStudioProjects\\InsideUrban\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\truec\\.android\\build-cache\\2bec23efb6c3d5c66bbff94a5ac4d1cfcf75cc1c\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\truec\\AndroidStudioProjects\\InsideUrban\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\truec\\.android\\build-cache\\2bec23efb6c3d5c66bbff94a5ac4d1cfcf75cc1c\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\truec\\AndroidStudioProjects\\InsideUrban\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\truec\\.android\\build-cache\\2bec23efb6c3d5c66bbff94a5ac4d1cfcf75cc1c\\output\\res\\layout-v11\\notification_media_action.xml"
+    }
+]

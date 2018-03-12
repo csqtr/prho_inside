@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\truec\.android\build-cache\cd122aed8df483286032966f9440c90fb764f414\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\truec\.android\build-cache\2bec23efb6c3d5c66bbff94a5ac4d1cfcf75cc1c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\truec\.android\build-cache\8a7bd9c0a6ca508aed3a41bef622aa88831f103c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\truec\.android\build-cache\aa43172e06c860ccc355fbd2b6064b1a5de675df\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\truec\.android\build-cache\29c57d2b601c109fe443d4acaabcc93e5c1ea027\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\truec\.android\build-cache\730e35d71a228e487fa9da5e3648a798de7b9d0e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\truec\.android\build-cache\0ca1fd3135e6a39c528a463d71536d9b7bab7fe8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\truec\.android\build-cache\ba459cfd1e245271b5214bfdb17f4c96ef409657\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\truec\.android\build-cache\c37a55915206081b3fc59d99f994a53c51da66c4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\truec\.android\build-cache\0db18d235dfddbc0585779a98e93cbed69f92a5f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\truec\.android\build-cache\5d4a1386c0ff36bd4eaba4ce648a5b051193b5da\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\truec\.android\build-cache\0cfba7230364ac6019b5abbd1f9080c314ef8dc5\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml:11:9-40
+activity#uk.ac.ncl.team15.insideurban.front.MainActivity
+ADDED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml:13:13-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\truec\.android\build-cache\cd122aed8df483286032966f9440c90fb764f414\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\truec\.android\build-cache\2bec23efb6c3d5c66bbff94a5ac4d1cfcf75cc1c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\truec\.android\build-cache\8a7bd9c0a6ca508aed3a41bef622aa88831f103c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\truec\.android\build-cache\aa43172e06c860ccc355fbd2b6064b1a5de675df\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\truec\.android\build-cache\0cb00117cff8976a35a71a71211bcafdacef762e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\truec\.android\build-cache\29c57d2b601c109fe443d4acaabcc93e5c1ea027\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\truec\.android\build-cache\730e35d71a228e487fa9da5e3648a798de7b9d0e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\truec\.android\build-cache\0ca1fd3135e6a39c528a463d71536d9b7bab7fe8\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\truec\.android\build-cache\ba459cfd1e245271b5214bfdb17f4c96ef409657\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\truec\.android\build-cache\c37a55915206081b3fc59d99f994a53c51da66c4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\truec\.android\build-cache\0db18d235dfddbc0585779a98e93cbed69f92a5f\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\truec\.android\build-cache\5d4a1386c0ff36bd4eaba4ce648a5b051193b5da\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\truec\.android\build-cache\0cfba7230364ac6019b5abbd1f9080c314ef8dc5\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\truec\.android\build-cache\cd122aed8df483286032966f9440c90fb764f414\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\truec\AndroidStudioProjects\InsideUrban\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\truec\.android\build-cache\cd122aed8df483286032966f9440c90fb764f414\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\truec\.android\build-cache\2bec23efb6c3d5c66bbff94a5ac4d1cfcf75cc1c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\truec\.android\build-cache\8a7bd9c0a6ca508aed3a41bef622aa88831f103c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\truec\.android\build-cache\aa43172e06c860ccc355fbd2b6064b1a5de675df\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\truec\.android\build-cache\0cb00117cff8976a35a71a71211bcafdacef762e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\truec\.android\build-cache\29c57d2b601c109fe443d4acaabcc93e5c1ea027\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\truec\.android\build-cache\730e35d71a228e487fa9da5e3648a798de7b9d0e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\truec\.android\build-cache\0ca1fd3135e6a39c528a463d71536d9b7bab7fe8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\truec\.android\build-cache\ba459cfd1e245271b5214bfdb17f4c96ef409657\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\truec\.android\build-cache\c37a55915206081b3fc59d99f994a53c51da66c4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\truec\.android\build-cache\0db18d235dfddbc0585779a98e93cbed69f92a5f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\truec\.android\build-cache\5d4a1386c0ff36bd4eaba4ce648a5b051193b5da\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\truec\.android\build-cache\cd122aed8df483286032966f9440c90fb764f414\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\truec\.android\build-cache\cd122aed8df483286032966f9440c90fb764f414\output\AndroidManifest.xml:26:9-47
