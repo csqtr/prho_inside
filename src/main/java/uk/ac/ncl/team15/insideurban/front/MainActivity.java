@@ -33,10 +33,17 @@ public class MainActivity extends AppCompatActivity
 
     // Menu fragment names
     public enum EMenuFragments {
-        MENU, HISTORY, SOCIAL, ACCESS, HELP;
+        MENU, HISTORY, SOCIAL, SEARCH, ACCESS, HELP;
     }
 
     public static String colorScheme = null;
+
+    private MenuFragment menuFrag;
+    private HistoryFragment historyFrag;
+    private SocialFragment socialFrag;
+    private SearchFragment searchFrag;
+    private AccessFragment accessFrag;
+    private HelpFragment helpFrag;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -129,9 +136,37 @@ public class MainActivity extends AppCompatActivity
     }
 
     public void replaceMenuFragment(EMenuFragments eFrag) {
+        FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
+
+        // Replace whatever is in the fragment_container view with this fragment,
+        // and add the transaction to the back stack so the user can navigate back
+        ft.replace(R.id.fragPlaceholder, getFragmentByEnum(eFrag));
+        ft.addToBackStack(null);
+
+        // Commit the transaction
+        ft.commit();
     }
 
-    public void getFragmentByEnum() {
+    public void getFragmentByEnum( EMenuFragments eFrag ) {
+
+        // MENU, HISTORY, SOCIAL, SEARCH, ACCESS, HELP
+
+        switch( eFrag ) {
+            case MENU:
+                return menuFrag;
+            case HISTORY:
+                return historyFrag;
+            case SOCIAL:
+                return socialFrag;
+            case SEARCH:
+                return searchFrag;
+            case ACCESS:
+                return accessFrag;
+            case HELP:
+                return helpFrag;
+            default:
+                return menuFrag;
+        }
     }
 
     public void toggleSearchFragment() {
