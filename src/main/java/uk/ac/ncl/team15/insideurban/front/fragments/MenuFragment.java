@@ -24,8 +24,12 @@ public class MenuFragment extends CustomFragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        //setInflatedView(inflater.inflate(R.layout.[layout], container, false));
-        return null;
+        //setInflatedView(inflater.inflate(R.layout.[layout], container, false))
+
+        inflatedView = inflater.inflate(R.layout.menu_fragment, container, false);
+        setInflatedView( inflatedView );
+
+        return inflatedView;
     }
 
     @Override
